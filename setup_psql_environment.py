@@ -1,5 +1,5 @@
 # SOURCE https://analyzingalpha.com/create-an-equities-database#undefined
-# FILENAME setup_psql_enviroment.py
+# FILENAME setup_psql_environment.py
 
 from sqlalchemy import create_engine
 import yaml
